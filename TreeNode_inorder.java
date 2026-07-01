@@ -16,7 +16,7 @@ public class TreeNode_inorder {
       }
   }
  
-class Solution {
+class Solution31 {
     List<Integer> list = new ArrayList<Integer>();
 
     public List<Integer> inorderTraversal(TreeNode_inorder root) {
